@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PayHome</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="select">Select Complaint Type</string>
+    <string name="SelectLeaveType">Select Leave Type</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

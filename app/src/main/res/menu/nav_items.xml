@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<item
+    android:id="@+id/mess"
+    android:title="Mess"
+    android:icon="@drawable/ic_baseline_restaurant_menu_24"/>
+    <item
+        android:id="@+id/laundry"
+        android:title="Laundry"
+        android:icon="@drawable/ic_baseline_local_laundry_service_24"/>
+
+
+    <item
+        android:id="@+id/roominfo"
+        android:title="Room info"
+        android:icon="@drawable/ic_baseline_bedroom_child_24"/>
+    <item
+        android:id="@+id/leavereq"
+        android:title="Leave Request"
+        android:icon="@drawable/leave_request"/>
+    <item
+        android:id="@+id/complaint"
+        android:title="Complaints">
+        <menu>
+            <item
+                android:id="@+id/register_comp"
+                android:title="Register Complaint"
+                android:icon="@drawable/ic_baseline_content_paste_24"/>
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/profile"
+        android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/viewprofile"
+                android:title="View profile"
+                android:icon="@drawable/ic_baseline_person_24"/>
+            <item
+                android:id="@+id/logout"
+                android:title="Log out"
+                android:icon="@drawable/ic_baseline_power_settings_new_24"/>
+        </menu>
+    </item>
+</menu>

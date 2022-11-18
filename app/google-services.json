@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645341154791",
+    "project_id": "payhome-671c2",
+    "storage_bucket": "payhome-671c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645341154791:android:7c0b53a2ca7e1077240142",
+        "android_client_info": {
+          "package_name": "com.example.payhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645341154791-905ketksk569mrm9s19jneh4qbqvvt3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Io5Z_57gD2KItv0AGNnIWXLXHQNJE_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645341154791-905ketksk569mrm9s19jneh4qbqvvt3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
